@@ -34,6 +34,8 @@ st.write(gold_data)
 st.subheader('Model Performance')
 st.write(score)
 
+st.sidebar.title("hello")
+
 
 
 
